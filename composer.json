@@ -21,8 +21,6 @@
 
         "doctrine/orm": "~2.6",
 
-        "symfony/symfony": "~4.1",
-
         "ext-openssl": "*"
     },
     "require-dev": {
