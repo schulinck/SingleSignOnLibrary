@@ -19,9 +19,9 @@
 
         "guzzlehttp/guzzle": "~6.0",
 
-        "doctrine/orm": "~2.3",
+        "doctrine/orm": "~2.6",
 
-        "symfony/symfony": "~2.8|~3.0",
+        "symfony/symfony": "~2.8|~3.0|~4.0",
 
         "ext-openssl": "*"
     },
